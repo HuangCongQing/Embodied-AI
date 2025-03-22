@@ -3,11 +3,12 @@
 
 
 ### 具身智能技术栈（学习路线）
-
+* 具身智能入门指南 Embodied-AI-Guide： https://github.com/TianxingChen/Embodied-AI-Guide
 
 
 ### 具身智能资料推荐
 
+* 具身智能入门指南 Embodied-AI-Guide： https://github.com/TianxingChen/Embodied-AI-Guide
 
 ### 具身智能公司 & 高校实验室
 * [具身智能公司一览表（附思维导图）
