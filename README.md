@@ -4,7 +4,7 @@
  * @Company(School): UCAS
  * @Email: 1756260160@qq.com
  * @Date: 2025-11-17 02:15:52
- * @LastEditTime: 2025-11-17 02:19:54
+ * @LastEditTime: 2025-11-17 02:21:25
  * @FilePath: \Embodied-AI\README.md
 -->
 # Embodied-AI
@@ -41,6 +41,6 @@ Licensed under the [MIT](./LICENSE) License.
 ---
 
 
-微信公众号：**【具身智能产学研】**（Embodied_AI_Study） 聊科研技术,谈人生思考,欢迎关注~
+微信公众号：**【具身智能产学研】**（Embodied_AI_Study） 最新具身智能学术研究和行业动态咨询,欢迎关注~
 
 ![image](./files/images/具身智能产学研公众号.png)
