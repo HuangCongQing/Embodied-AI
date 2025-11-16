@@ -18,5 +18,19 @@
 ### Reference
 * https://github.com/TianxingChen/Embodied-AI-Guide
 * https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List
-* https://github.com/GT-RIPL/Awesome-LLM-Robotics.git
+* https://github.com/GT-RIPL/Awesome-LLM-Robotics
 * https://github.com/Jiaaqiliu/Awesome-VLA-Robotics
+
+
+
+### License
+
+Copyright (c) [双愚](https://github.com/HuangCongQing). All rights reserved.
+
+Licensed under the [MIT](./LICENSE) License.
+
+---
+
+
+微信公众号：**【具身智能产学研】**（Embodied_AI_Study） 聊科研技术,谈人生思考,欢迎关注~
+ 
