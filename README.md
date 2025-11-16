@@ -1,3 +1,12 @@
+<!--
+ * @Description: 
+ * @Author: HCQ
+ * @Company(School): UCAS
+ * @Email: 1756260160@qq.com
+ * @Date: 2025-11-17 02:15:52
+ * @LastEditTime: 2025-11-17 02:19:54
+ * @FilePath: \Embodied-AI\README.md
+-->
 # Embodied-AI
 具身智能(Embodied AI)技术栈学习路线和相关资料
 
@@ -33,4 +42,5 @@ Licensed under the [MIT](./LICENSE) License.
 
 
 微信公众号：**【具身智能产学研】**（Embodied_AI_Study） 聊科研技术,谈人生思考,欢迎关注~
- 
+
+![image](./files/images/具身智能产学研公众号.png)
